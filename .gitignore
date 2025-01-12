@@ -1,0 +1,8 @@
+venv/
+*.csv
+42*/
+100*/
+.ipynb_checkpoints/
+*.m
+.DS_Store
+.idea/
