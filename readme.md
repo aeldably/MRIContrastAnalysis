@@ -9,7 +9,7 @@ MRIContrastAnalysis is a Python project designed to analyze T1 and T2 relaxation
 - **Specialization Module**: Bioimaging
 - **Supervisor**: Dr. Gisela Hagberg
 - **Course Date**: 12.11.2024
-- **Submission Date**: 11.01.2025
+- **Submission Date**: 12.01.2025
 - **Students**: Ahmed Eldably, Myriam Philippos, Jan Schöttke
 
 ## Key Features
